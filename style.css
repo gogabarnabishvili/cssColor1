@@ -1,0 +1,18 @@
+body {
+    background-color: #b3b3b3;
+}
+.section-1 > p {
+    color: #ff0000;
+}
+.section-2 > h3 {
+    color: #2400ff;
+}
+.section-2 > p {
+    color: #ff2929;
+}
+.section-3 > h3 {
+    color: #00461c;
+}
+/* .section-3 > p {
+    color: #000000;
+} */
